@@ -168,6 +168,10 @@ label {
     line-height: 1;
 }
 
+#day-born {
+    text-align: center;
+}
+
 .footer {
     display: flex;
     flex-direction: column;
