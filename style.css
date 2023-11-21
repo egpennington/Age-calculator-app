@@ -192,7 +192,7 @@ label {
     opacity: 0.6;
 }
 
-/* Media queries for larger screens */
+/* Media query for mobile */
 @media(max-width: 468px) {
     .container {
         width: 375px;
